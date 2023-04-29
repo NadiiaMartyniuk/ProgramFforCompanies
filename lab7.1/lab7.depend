@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1682608423 source:c:\users\student\desktop\lab7\main.cpp
+	<iostream>
+	"Ttowar.h"
+	"Tdokument.h"
+	"Tfaktura.h"
+	"Tklient.h"
+
+1682604965 c:\users\student\desktop\lab7\include\ttowar.h
+	<iostream>
+	<string>
+
+1682604965 c:\users\student\desktop\lab7\include\tdokument.h
+	<iostream>
+	<string>
+
+1682607249 c:\users\student\desktop\lab7\include\tfaktura.h
+	"Tfaktura.h"
+	"Tklient.h"
+	"Tdokument.h"
+	"Ttowar.h"
+	<iostream>
+
+1682607098 c:\users\student\desktop\lab7\include\tklient.h
+	<iostream>
+	<string>
+
+1682608511 source:c:\users\student\desktop\lab7\src\ttowar.cpp
+	"Ttowar.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1682608502 source:c:\users\student\desktop\lab7\src\tklient.cpp
+	"Tklient.h"
+	<iostream>
+	<iomanip>
+
+1682608696 source:c:\users\student\desktop\lab7\src\tdokument.cpp
+	"Tdokument.h"
+	<iostream>
+	<iomanip>
+
+1682608393 source:c:\users\student\desktop\lab7\src\tfaktura.cpp
+	"Tfaktura.h"
+	"Ttowar.h"
+	"Tklient.h"
+	<iostream>
+	<iomanip>
+
+1682625700 source:c:\users\nadia\desktop\c++\lab7\main.cpp
+	<iostream>
+	"Ttowar.h"
+	"Tdokument.h"
+	"Tfaktura.h"
+	"Tklient.h"
+
+1682604965 c:\users\nadia\desktop\c++\lab7\include\ttowar.h
+	<iostream>
+	<string>
+
+1682604965 c:\users\nadia\desktop\c++\lab7\include\tdokument.h
+	<iostream>
+	<string>
+
+1682607249 c:\users\nadia\desktop\c++\lab7\include\tfaktura.h
+	"Tfaktura.h"
+	"Tklient.h"
+	"Tdokument.h"
+	"Ttowar.h"
+	<iostream>
+
+1682607098 c:\users\nadia\desktop\c++\lab7\include\tklient.h
+	<iostream>
+	<string>
+
+1682626618 source:c:\users\nadia\desktop\c++\lab7\src\tdokument.cpp
+	"Tdokument.h"
+	<iostream>
+	<iomanip>
+
+1682626618 source:c:\users\nadia\desktop\c++\lab7\src\tfaktura.cpp
+	"Tfaktura.h"
+	"Ttowar.h"
+	"Tklient.h"
+	<iostream>
+	<iomanip>
+
+1682608502 source:c:\users\nadia\desktop\c++\lab7\src\tklient.cpp
+	"Tklient.h"
+	<iostream>
+	<iomanip>
+
+1682626221 source:c:\users\nadia\desktop\c++\lab7\src\ttowar.cpp
+	"Ttowar.h"
+	<iostream>
+	<string>
+	<iomanip>
+
